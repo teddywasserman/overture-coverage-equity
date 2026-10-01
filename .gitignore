@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/raw/
+data/interim/
+data/SampleSubmission.csv
+data/external/cms_dfc_facility_2026-06-16.csv
+outputs/oof_*.parquet
+outputs/*.log

@@ -1,0 +1,13 @@
+ccn,facility,city,status_auto,matched_places,pediatric_listing,findable_strict
+032314,032314 PHOENIX CHILDRENS HOSPITAL- DIALYSIS CENTER,PHOENIX,mapped_other_cat,Nephrology Kids Kidney Center [hospital] 96 m,True,False
+052405,UC Davis Medical Center Pediatric,SACRAMENTO,mapped_dialysis,Butani Lavjay Md Pediatrics Nephrology [nephrologist] 37 m | DaVita [dialysis_clinic] 87 m,True,False
+452309,CHILDREN'S MEMORIAL HERMANN DIALYSIS CENTER,HOUSTON,mapped_other_cat,UT Physicians Renal Disease and Hypertension - Texas Medical Center [medical_center] 143 m,False,False
+452333,TEXAS CHILDRENS HOSPITAL DIALYSIS UNIT,HOUSTON,mapped_other_cat,"Kidney Associates, Pllc [health_and_medical] 67 m | Renal Specialist [medical_center] 82 m | The Kidney Institute, Fannin [medical_center] 210 m | Nephrology PA [gastroenterologist] 246 m",False,False
+452344,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,DALLAS,mapped_other_cat,Children's Health Nephrology Dallas [pediatric_nephrology] 133 m | UT Southwestern Pediatric Nephrology [pediatrician] 237 m,True,False
+452358,COOK CHILDRENS MEDICAL CENTER DIALYSIS UNIT,FORT WORTH,mapped_other_cat,Cook Children's Nephrology [nephrologist] 160 m | Cook Childrens Medical Center Dialysis Unit [health_and_medical] 242 m,True,False
+452372,CHRISTUS CHILDRENS KIDNEY CENTER,SAN ANTONIO,mapped_dialysis,San Antonio Nephrology Associates [nephrologist] 160 m | Alamo Kidney Health Pa Inc [nephrologist] 160 m | U.S. Renal Care [dialysis_clinic] 247 m,False,False
+452380,DRISCOLL CHILDREN'S HOSPITAL DIALYSIS UNIT,CORPUS CHRISTI,missing,,False,False
+452388,UNIVERSITY HEALTH SYSTEM CHILDREN'S KIDNEY CENTER,SAN ANTONIO,mapped_other_cat,"Renal Associates, P.A. [nephrologist] 91 m | Children's Health Liver & Kidney Center - University Hospital [medical_center] 379 m | Mazen Arar, Md [pediatric_nephrology] 418 m | Kim Piburn, Do [diagnostic_services] 418 m | Ikuyo Yamaguchi, MD [medical_center] 505 m | Ikuyo Yamaguchi, Md [pediatric_nephrology] 11048 m",True,False
+452391,Texas Children's Hospital North Austin Campus,Austin,missing,,False,False
+452842,CHILDRENS DIALYSIS CLINIC OF CENTRAL TEXAS,AUSTIN,mapped_dialysis,Children's Dialysis Clinic Of Central Texas [dialysis_clinic] 64 m | Dell Children's - Nephrology Mueller [dermatologist] 78 m | Children Dialysis Clinic [hospital] 78 m,True,True
+453516,DRISCOLL CHILDREN'S VALLEY DIALYSIS CENTER,MCALLEN,mapped_dialysis,RGV Kidney Care [dialysis_clinic] 63 m | U.S. Renal Care [dialysis_clinic] 155 m | Mcallen Dialysis [dialysis_clinic] 174 m | New Era Nephrology Pa [health_and_medical] 174 m,False,False

@@ -1,0 +1,10 @@
+{
+ "gamma": 0.5,
+ "beta": 0.0,
+ "min_km": 0.1,
+ "building_floor": 0.0,
+ "cbp_floor": 0.0,
+ "use_name_evidence": true,
+ "shrink": 1.0,
+ "components": "tpb"
+}
