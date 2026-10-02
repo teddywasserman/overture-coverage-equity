@@ -196,3 +196,7 @@ A clean clone reproduces `outputs/submissions/structural_v1.csv` byte-for-byte.
 
 ![map_est_gap.png](figures/map_est_gap.png)
 
+
+## Public leaderboard result (added 2026-10-02)
+
+Submission `Q3WQ174d` (this estimator, `structural_v1`) scored **0.1028** on the public leaderboard. An all-zero file reportedly scores about 0.06, so on average the label-free estimator over-predicts the coverage gap. We report this as-is and have not tuned against the leaderboard. The documented parameters that would need labels to calibrate are the county-route weight (γ), the unsigned named-class weight (β), and the facility name-evidence rules; the building floor of 0 is an assumption, not a fitted value.
